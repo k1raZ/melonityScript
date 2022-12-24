@@ -18,4 +18,4 @@ Test task for melonity
 
 <h1>Mana abuse</h1>
 
-![](https://github.com/melonityScript/media/manaAbuse.gif)
+![](https://github.com/k1raZ/melonityScript/blob/main/media/manaAbuse.gif)
