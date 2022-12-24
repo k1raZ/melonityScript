@@ -14,3 +14,8 @@ Test task for melonity
 - Область+Иконку последней видимой позиции вражеских NPC_Hero; 
 
 - Item Panel со списком персонажей и их предметами и их перезарядку в виде отдельной панели
+
+
+<h1>Mana abuse</h1>
+
+![](https://github.com/melonityScript/media/manaAbuse.gif)
